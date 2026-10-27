@@ -190,8 +190,7 @@ const char* nomeDaLocalidade(int v) {
 void mostraLocalidades() {
     printf("\n===== LOCALIDADES REGISTRADAS =====\n\n");
     for (int i = 0; i < TOTAL_LOCALIDADES; i++) {
-        printf(mapa[i].nome);
-        printf("\n");
+        printf("%s\n", mapa[i].nome);
     }
 }
 
