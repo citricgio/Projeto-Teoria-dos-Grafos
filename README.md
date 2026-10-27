@@ -111,8 +111,8 @@ O programa calcula a rota completa entre as localidades escolhidas e exibe:
 
 ## Caminhos
 
-Os caminhos, em vértices, de cada trecho estão no PDF do projeto.
+Os caminhos, em vértices, de cada trecho estão no [relatório em PDF](Grafos-Projeto-Parte-II.pdf).
 
 ## Documentação
 
-O relatório completo, com o mapa da região, o output do código e os caminhos detalhados, está no PDF **Grafos – Projeto Parte II**.
+O relatório completo, com o mapa da região, o output do código e os caminhos detalhados, está no PDF [**Grafos – Projeto Parte II**](Grafos-Projeto-Parte-II.pdf).
