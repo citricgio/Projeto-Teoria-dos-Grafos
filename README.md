@@ -1,19 +1,15 @@
 # Projeto Teoria dos Grafos – Partes I e II
 
-Análise de trajetos entre estabelecimentos e pontos de interesse de Mogi das Cruzes (SP), modelando o bairro como um grafo e calculando rotas de menor distância com o **algoritmo de Dijkstra**, implementado em **C**.
+Análise de trajetos entre estabelecimentos e pontos de interesse de Mogi das Cruzes, modelando o bairro como um grafo e calculando rotas de menor distância com o **algoritmo de Dijkstra**, implementado em **C** (2025).
 
 ## Integrantes
 
-| Nome | RA |
-|---|---|
-| Giovanna Micher Santana | 10401330 |
-| Gustavo Augusto Alves Pivatto | 10401400 |
-| Jefferson Dantas | 10401327 |
-| Marina Sinzato | 10401880 |
+- Giovanna Micher Santana 
+- Gustavo Augusto Alves Pivatto 
+- Jefferson Dantas 
+- Marina Sinzato 
 
-São Paulo, 2025.
-
-## Problema
+## Objetivo
 
 Analisar os trajetos mais frequentes realizados por moradores entre estabelecimentos comerciais e pontos de interesse na cidade de Mogi das Cruzes.
 
@@ -29,9 +25,11 @@ A região é representada como um grafo: localidades e interseções viram **vé
 - **Localidades:** 20 pontos de interesse, entre hospitais, supermercados, farmácias, postos de gasolina, universidades, shopping, hotel, lanchonetes, banco e o Terminal Estudantes, além da "Minha casa".
 - **Grafo:** 49 vértices, representando ruas e quadras da área selecionada.
 
-### Localidades mapeadas
+<img width="700" height="563" alt="unknown" src="https://github.com/user-attachments/assets/989cd2ce-4215-4311-a346-be0acc044ecc" />
 
-As localidades são mapeadas como novos vértices
+### Pontos de interesse
+
+Os pontos de interesse são mapeados como novos vértices.
 
 | Vértice | Localidade |
 |---|---|
@@ -108,6 +106,10 @@ O programa calcula a rota completa entre as localidades escolhidas e exibe:
 - os nomes das localidades correspondentes;
 - a distância mínima de cada trecho;
 - a distância total percorrida, incluindo o retorno.
+
+<img width="1026" height="341" alt="Screenshot 2026-10-28 at 11 24 41" src="https://github.com/user-attachments/assets/00f34189-9629-41d2-b6fc-df1e028c6e9f" />
+<img width="1026" height="759" alt="Screenshot 2026-10-28 at 11 25 08" src="https://github.com/user-attachments/assets/fef42a94-3b6d-4756-afa5-b328ecc495f1" />
+<img width="1026" height="115" alt="Screenshot 2026-10-28 at 11 25 44" src="https://github.com/user-attachments/assets/c95f83e7-8d4f-42ab-9577-c733c36e2aa4" />
 
 ## Caminhos
 
