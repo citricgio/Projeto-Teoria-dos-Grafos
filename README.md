@@ -111,10 +111,6 @@ O programa calcula a rota completa entre as localidades escolhidas e exibe:
 <img width="1026" height="759" alt="Screenshot 2026-10-28 at 11 25 08" src="https://github.com/user-attachments/assets/fef42a94-3b6d-4756-afa5-b328ecc495f1" />
 <img width="1026" height="115" alt="Screenshot 2026-10-28 at 11 25 44" src="https://github.com/user-attachments/assets/c95f83e7-8d4f-42ab-9577-c733c36e2aa4" />
 
-## Caminhos
-
-Os caminhos, em vértices, de cada trecho estão no [relatório em PDF](Grafos-Projeto-Parte-II.pdf).
-
 ## Documentação
 
 O relatório completo, com o mapa da região, o output do código e os caminhos detalhados, está no PDF [**Grafos – Projeto Parte II**](Grafos-Projeto-Parte-II.pdf).
